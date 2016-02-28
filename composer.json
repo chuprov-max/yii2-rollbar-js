@@ -6,7 +6,11 @@
         "yii2",
         "extension",
         "rollbar",
-        "js"
+        "js",
+        "error",
+        "exception",
+        "debug",
+        "monitoring"
     ],
     "license": "MIT",
     "authors": [
@@ -17,6 +21,10 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/ezoterik/yii2-rollbar-js/issues?state=open",
+        "source": "https://github.com/ezoterik/yii2-rollbar-js"
+    },
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*"
