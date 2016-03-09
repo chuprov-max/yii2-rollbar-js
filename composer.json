@@ -26,7 +26,6 @@
         "source": "https://github.com/ezoterik/yii2-rollbar-js"
     },
     "require": {
-        "php": ">=5.4.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
